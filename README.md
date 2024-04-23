@@ -9,6 +9,6 @@ Instructions to use this app:
 After performing these steps an sos message with your live location will be sent to the emergency number which you have added.
 
 Additional features:
-                 Helpline numbers
+                 Helpline numbers,
                  Police siren
                          
